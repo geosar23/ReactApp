@@ -36,37 +36,37 @@ export const robots = [
     },
     {
         id:6,
-        name:'Geo Sar',
-        username:'Saros',
-        email:'saruman@gmail.com'
+        name:'Konst Man',
+        username:'Chess Master',
+        email:'gabiOver9000@gmail.com'
 
     },
     {
         id:7,
-        name:'Geo Sar',
-        username:'Saros',
-        email:'saruman@gmail.com'
+        name:'Aris Loulis',
+        username:'Hoodie Loolie',
+        email:'kamikazi_gddblade@gmail.com'
 
     },
     {
         id:8,
-        name:'Geo Sar',
-        username:'Saros',
-        email:'saruman@gmail.com'
+        name:'Stelios Prokops',
+        username:'xXx',
+        email:'stelios13@gmail.com'
 
     },
     {
         id:9,
-        name:'Geo Sar',
-        username:'Saros',
-        email:'saruman@gmail.com'
+        name:'Kourpos',
+        username:'Kourpos',
+        email:'bourba@gmail.com'
 
     },
     {
         id:10,
-        name:'Geo Sar',
-        username:'Saros',
-        email:'saruman@gmail.com'
+        name:'Dimada',
+        username:'Father13',
+        email:'father13@gmail.com'
 
     },
 ]
