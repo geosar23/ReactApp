@@ -1,7 +1,7 @@
 import React,{Component} from 'react';
 import Cardlist from './Cardlist';
 import { robots } from './robots';
-import Searchbox from './Searchbox';
+import SearchBox from './SearchBox';
 import './App.css';
 class App extends Component{
 
@@ -16,7 +16,7 @@ class App extends Component{
     
     onSearchChange=(event)=>{
 
-        this.setState({searchfield: event.target.value})
+        this.setState({ searchfield: event.target.value})
         
     }
 
@@ -29,7 +29,7 @@ class App extends Component{
         return(
             <div className='tc'>
                 <h1 className='f2'>Robo Friends</h1>
-                <Searchbox searchange={this.onSearchChange}/>
+                <SearchBox searchChange={this.onSearchChange}/>
                 <Cardlist robots={filteredRobots}/>
             </div>
         );
